@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("haaiii")
+st.title("haaii")
 st.write(
     "belajar bersama pacar  jaehyun"
 ) 
